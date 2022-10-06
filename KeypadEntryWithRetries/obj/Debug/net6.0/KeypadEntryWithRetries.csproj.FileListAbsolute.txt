@@ -1,0 +1,15 @@
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\bin\Debug\net6.0\KeypadEntryWithRetries.exe
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\bin\Debug\net6.0\KeypadEntryWithRetries.deps.json
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\bin\Debug\net6.0\KeypadEntryWithRetries.runtimeconfig.json
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\bin\Debug\net6.0\KeypadEntryWithRetries.dll
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\bin\Debug\net6.0\KeypadEntryWithRetries.pdb
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.csproj.AssemblyReference.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.AssemblyInfoInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.AssemblyInfo.cs
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.csproj.CoreCompileInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.dll
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\refint\KeypadEntryWithRetries.dll
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.pdb
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\KeypadEntryWithRetries.genruntimeconfig.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntryWithRetries\obj\Debug\net6.0\ref\KeypadEntryWithRetries.dll

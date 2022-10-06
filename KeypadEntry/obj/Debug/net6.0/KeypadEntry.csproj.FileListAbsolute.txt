@@ -1,0 +1,15 @@
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\bin\Debug\net6.0\KeypadEntry.exe
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\bin\Debug\net6.0\KeypadEntry.deps.json
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\bin\Debug\net6.0\KeypadEntry.runtimeconfig.json
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\bin\Debug\net6.0\KeypadEntry.dll
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\bin\Debug\net6.0\KeypadEntry.pdb
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.csproj.AssemblyReference.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.AssemblyInfoInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.AssemblyInfo.cs
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.csproj.CoreCompileInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.dll
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\refint\KeypadEntry.dll
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.pdb
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\KeypadEntry.genruntimeconfig.cache
+C:\Users\missb\source\repos\BasicsLoops\KeypadEntry\obj\Debug\net6.0\ref\KeypadEntry.dll

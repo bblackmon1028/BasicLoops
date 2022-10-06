@@ -1,0 +1,15 @@
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\bin\Debug\net6.0\NumberLoop.exe
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\bin\Debug\net6.0\NumberLoop.deps.json
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\bin\Debug\net6.0\NumberLoop.runtimeconfig.json
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\bin\Debug\net6.0\NumberLoop.dll
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\bin\Debug\net6.0\NumberLoop.pdb
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.csproj.AssemblyReference.cache
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.AssemblyInfoInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.AssemblyInfo.cs
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.csproj.CoreCompileInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.dll
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\refint\NumberLoop.dll
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.pdb
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\NumberLoop.genruntimeconfig.cache
+C:\Users\missb\source\repos\BasicsLoops\NumberLoop\obj\Debug\net6.0\ref\NumberLoop.dll

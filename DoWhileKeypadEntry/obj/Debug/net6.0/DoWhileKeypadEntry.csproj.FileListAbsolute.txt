@@ -1,0 +1,15 @@
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\bin\Debug\net6.0\DoWhileKeypadEntry.exe
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\bin\Debug\net6.0\DoWhileKeypadEntry.deps.json
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\bin\Debug\net6.0\DoWhileKeypadEntry.runtimeconfig.json
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\bin\Debug\net6.0\DoWhileKeypadEntry.dll
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\bin\Debug\net6.0\DoWhileKeypadEntry.pdb
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.csproj.AssemblyReference.cache
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.AssemblyInfoInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.AssemblyInfo.cs
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.csproj.CoreCompileInputs.cache
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.dll
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\refint\DoWhileKeypadEntry.dll
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.pdb
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\DoWhileKeypadEntry.genruntimeconfig.cache
+C:\Users\missb\source\repos\BasicsLoops\DoWhileKeypadEntry\obj\Debug\net6.0\ref\DoWhileKeypadEntry.dll
